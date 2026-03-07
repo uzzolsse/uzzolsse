@@ -28,7 +28,7 @@ Despite senior titles, I stay close to the code.
 - **Technical Lead — BJIT**  
   Delivered enterprise-grade software with strong engineering standards
 
-- **Head of Engineering / CTO — Startups (Fintech & Web3)**  
+- **Lead Engineer at Cosmos Tech Labs**  
   Owned architecture, hiring, delivery, and long-term technical vision
 
 ---
@@ -48,6 +48,13 @@ Despite senior titles, I stay close to the code.
 - TypeScript
 - Scalable component architectures
 - Performance optimization for large apps
+
+### Blockchain
+- Solidity
+- Foundry
+- Openzepplin
+- Wagmi, Metamask, Solflare
+- Solana and EVM chain
 
 ### Architecture & Practices
 - Domain-Driven Design (DDD)
