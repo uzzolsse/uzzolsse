@@ -4,7 +4,7 @@
 
 I help founders and product teams build **scalable, production-ready systems** without painful rewrites later.
 
-With **10+ years of experience**, I design and implement transaction-heavy web applications that power real businesses — not demos or throwaway MVPs. I’ve led frontend and backend teams, owned system architecture end-to-end, and written the core services that scale.
+With **13+ years of experience**, I design and implement transaction-heavy web applications that power real businesses — not demos or throwaway MVPs. I’ve led frontend and backend teams, owned system architecture end-to-end, and written the core services that scale.
 
 Despite senior titles, I stay close to the code.
 
